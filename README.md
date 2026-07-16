@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=220&section=header&text=Muhamad%20Rifqi%20Ardiansyah&fontSize=40&fontColor=C9A9FF&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Automation%20%26%20AI%20Tools%20Builder&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=220&section=header&text=Muhamad%20Rifqi%20Ardiansyah&fontSize=40&fontColor=C9A9FF&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Automation%20and%20AI%20Tools%20Builder&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=B388FF&center=true&vCenter=true&width=640&lines=Building+full-stack+web+projects+from+scratch;Turning+ideas+into+working+tools%2C+one+repo+at+a+time;Exploring+AI+integrations+%26+automation;Open+to+internships%2C+freelance+%26+collab" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=B388FF&center=true&vCenter=true&width=640&lines=Building+full-stack+web+projects+from+scratch;Turning+ideas+into+working+tools%2C+one+repo+at+a+time;Exploring+AI+integrations+and+automation;Open+to+internships%2C+freelance+and+collab" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -30,7 +30,7 @@
 
 ---
 
-## 👋 About Me
+## ðŸ‘‹ About Me
 
 <div align="center">
 <img src="https://img.shields.io/badge/-Full%20Stack%20Web%20Dev-8A2BE2?style=flat-square" />
@@ -40,11 +40,11 @@
 
 <br/>
 
-I'm Rifqi, a self-taught developer based in Bandung, West Java, Indonesia. I build practical, real-world projects from the ground up — from a personal all-in-one web dashboard to business websites and automation bots — usually with plain HTML, CSS, and JavaScript before reaching for a framework.
+I'm Rifqi, a self-taught developer based in Bandung, West Java, Indonesia. I build practical, real-world projects from the ground up â€” from a personal all-in-one web dashboard to business websites and automation bots â€” usually with plain HTML, CSS, and JavaScript before reaching for a framework.
 
 I like understanding things at the fundamentals level, and I'm currently expanding into cloud fundamentals and generative AI, integrating AI tools into my own projects along the way.
 
-**🎯 Open To:**
+**ðŸŽ¯ Open To:**
 - Internship or junior developer opportunities
 - Freelance web development projects
 - Open-source collaboration
@@ -54,7 +54,7 @@ I like understanding things at the fundamentals level, and I'm currently expandi
 
 ---
 
-## 🛠️ Tech Stack
+## ðŸ› ï¸ Tech Stack
 
 **Languages**
 
@@ -64,7 +64,7 @@ I like understanding things at the fundamentals level, and I'm currently expandi
 
 ![JavaScript](https://skillicons.dev/icons?i=js) ![CSS3](https://skillicons.dev/icons?i=css) ![HTML5](https://skillicons.dev/icons?i=html)
 
-*Vanilla JS — no framework, built from scratch*
+*Vanilla JS â€” no framework, built from scratch*
 
 **Backend & Automation**
 
@@ -78,16 +78,16 @@ I like understanding things at the fundamentals level, and I'm currently expandi
 
 ---
 
-## 🧠 AI Exploration
+## ðŸ§  AI Exploration
 
 <div align="center">
 
 | Area | Status | Details |
 |---|:---:|---|
-| Generative AI Fundamentals | 📘 Learning | Completed AWS "Cloud & Generative AI Fundamentals" |
-| AI Tool Integration | 🛠️ Building | Built a Claude-powered chat tool into Kai Dashboard |
-| Automation | 🛠️ Building | WhatsApp bot with custom utility features |
-| Spec-Driven Development | 📘 Learning | Applying structured, spec-first workflows to projects |
+| Generative AI Fundamentals | ðŸ“˜ Learning | Completed AWS "Cloud & Generative AI Fundamentals" |
+| AI Tool Integration | ðŸ› ï¸ Building | Built a Claude-powered chat tool into Kai Dashboard |
+| Automation | ðŸ› ï¸ Building | WhatsApp bot with custom utility features |
+| Spec-Driven Development | ðŸ“˜ Learning | Applying structured, spec-first workflows to projects |
 
 </div>
 
@@ -95,13 +95,13 @@ I like understanding things at the fundamentals level, and I'm currently expandi
 
 ---
 
-## 🚀 Featured Projects
+## ðŸš€ Featured Projects
 
 <details>
-<summary><b>🔹 Kai Dashboard (KaiTools) — Personal Web Workspace</b></summary>
+<summary><b>ðŸ”¹ Kai Dashboard (KaiTools) â€” Personal Web Workspace</b></summary>
 <br/>
 
-An all-in-one personal dashboard styled like a mini desktop OS, packed with self-built tools and productivity utilities — built entirely with vanilla HTML, CSS, and JavaScript, no framework.
+An all-in-one personal dashboard styled like a mini desktop OS, packed with self-built tools and productivity utilities â€” built entirely with vanilla HTML, CSS, and JavaScript, no framework.
 
 | Aspect | Details |
 |---|---|
@@ -111,15 +111,15 @@ An all-in-one personal dashboard styled like a mini desktop OS, packed with self
 | **Highlights** | Custom UI/UX, glassmorphic + neumorphic themes, real-time weather & clock widgets |
 | **Repository** | [View Repo](https://github.com/KaiOverCooked/Kai-Dashboard) |
 
-Built as a personal "OS" — a single page that replaces several everyday tools with custom-built, framework-free equivalents.
+Built as a personal "OS" â€” a single page that replaces several everyday tools with custom-built, framework-free equivalents.
 
 </details>
 
 <details>
-<summary><b>🔹 LatarIma Cafe Website</b></summary>
+<summary><b>ðŸ”¹ LatarIma Cafe Website</b></summary>
 <br/>
 
-A responsive business website built for a local café, designed to give the business a clean, mobile-friendly online presence.
+A responsive business website built for a local cafÃ©, designed to give the business a clean, mobile-friendly online presence.
 
 | Aspect | Details |
 |---|---|
@@ -131,7 +131,7 @@ A responsive business website built for a local café, designed to give the busi
 </details>
 
 <details>
-<summary><b>🔹 WhatsApp Bot</b></summary>
+<summary><b>ðŸ”¹ WhatsApp Bot</b></summary>
 <br/>
 
 A WhatsApp automation bot built with custom utility features for everyday automated tasks.
@@ -149,9 +149,9 @@ A WhatsApp automation bot built with custom utility features for everyday automa
 
 ---
 
-## 💼 Currently Building
+## ðŸ’¼ Currently Building
 
-No formal industry experience yet — right now my experience comes from building real, self-directed projects and learning in public.
+No formal industry experience yet â€” right now my experience comes from building real, self-directed projects and learning in public.
 
 - Designing and shipping full-stack projects independently, end-to-end
 - Studying cloud fundamentals and generative AI through structured coursework
@@ -164,13 +164,13 @@ No formal industry experience yet — right now my experience comes from buildin
 
 ---
 
-## 🏆 Achievements
+## ðŸ† Achievements
 
 <div align="center">
 
 | Recognition | Details |
 |---|---|
-| 🚀 In Progress | Building a track record one project at a time — check back soon! |
+| ðŸš€ In Progress | Building a track record one project at a time â€” check back soon! |
 
 </div>
 
@@ -178,11 +178,11 @@ No formal industry experience yet — right now my experience comes from buildin
 
 ---
 
-## 📜 Certifications
+## ðŸ“œ Certifications
 
 **AWS**
 
-![AWS Cloud & GenAI](https://img.shields.io/badge/AWS-Cloud%20%26%20Generative%20AI%20Fundamentals-8A2BE2?style=for-the-badge&logo=amazonaws&logoColor=white)
+![AWS Cloud and GenAI](https://img.shields.io/badge/AWS-Cloud%20and%20Generative%20AI%20Fundamentals-8A2BE2?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 **Professional Development**
 
@@ -192,13 +192,13 @@ No formal industry experience yet — right now my experience comes from buildin
 
 ---
 
-## 💻 Coding Profiles
+## ðŸ’» Coding Profiles
 
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-KaiOverCooked-4B0082?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KaiOverCooked)
 
-*Focused on project-based building right now — competitive coding profiles may come later!*
+*Focused on project-based building right now â€” competitive coding profiles may come later!*
 
 </div>
 
@@ -206,7 +206,7 @@ No formal industry experience yet — right now my experience comes from buildin
 
 ---
 
-## 📊 GitHub Analytics
+## ðŸ“Š GitHub Analytics
 
 <div align="center">
 
@@ -221,7 +221,7 @@ No formal industry experience yet — right now my experience comes from buildin
 
 ---
 
-## 🏅 GitHub Trophies
+## ðŸ… GitHub Trophies
 
 <div align="center">
 
@@ -233,7 +233,7 @@ No formal industry experience yet — right now my experience comes from buildin
 
 ---
 
-## 📈 Contribution Activity
+## ðŸ“ˆ Contribution Activity
 
 <div align="center">
 
@@ -245,7 +245,7 @@ No formal industry experience yet — right now my experience comes from buildin
 
 ---
 
-## 🐍 Contribution Snake
+## ðŸ Contribution Snake
 
 <div align="center">
 
@@ -259,7 +259,7 @@ No formal industry experience yet — right now my experience comes from buildin
 
 ---
 
-## 🎯 Current Focus
+## ðŸŽ¯ Current Focus
 
 \`\`\`yaml
 Learning:
@@ -285,7 +285,7 @@ Open To:
 
 ---
 
-## 📫 Connect With Me
+## ðŸ“« Connect With Me
 
 <div align="center">
 
